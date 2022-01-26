@@ -1,0 +1,13 @@
+numpy
+pandas
+yfinance
+matplotlib
+seaborn
+scipy
+scikit-learn
+pymongo==3.12.1
+dnspython
+jupyter
+jupyterlab
+pystan==2.18.0.0
+fbprophet
