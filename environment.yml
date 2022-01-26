@@ -1,5 +1,5 @@
 name: daps
 
 dependencies:
-  - python=3.8.12=h6244533_0
+  - python=3.8.12
   - pip
